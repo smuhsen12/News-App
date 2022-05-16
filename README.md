@@ -7,7 +7,7 @@ Uses the Rest API and News API.
 
 API Docs For News API: https://newsapi.org/docs
 
-## App Description
+## Functionality
 
 - Finding news by a paricular source and category
 - Search for news using specific keywords
