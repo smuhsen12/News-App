@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppUse</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="tweets_title">Android Tweets near %1$s</string>
+    <string name="maps_instructions">Long-press to select a location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="confirm">Confirm</string>
+    <string name="selected_item">Selected item: </string>
+    <string name="NEWS_API_KEY">d0e1f5d0443344508549ba856d46d66c</string>
+    <string name="news_by">News By: \</string>
+    <string name="for_txt">\ for \</string>
+
+    <string-array name="Categories">
+        <item>business</item>
+        <item>entertainment</item>
+        <item>general</item>
+        <item>health</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+
+</resources>

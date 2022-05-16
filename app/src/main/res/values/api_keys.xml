@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+    <!--
+    Unlike normal API Keys (like Google Maps and News API) Twitter uses something slightly different,
+    so saying this is an API Key isn't totally correct - we'll see in Lecture 7.
+    -->
+    <string name="news_api_key">d0e1f5d0443344508549ba856d46d66c</string>
+
+</resources>
+
